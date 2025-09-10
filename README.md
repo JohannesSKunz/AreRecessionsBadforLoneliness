@@ -15,7 +15,6 @@ The analysis is based on the [HILDA](https://dataverse.ada.edu.au/dataverse.xhtm
 
 Here, we describe and provide our code. We encourage any replication attempt, and interested readers should not hesitate to contact [Johannes Kunz](mailto:johannes.kunz@monash.edu) or [Anh Trinh](mailto:Trong-Anh.Trinh@monash.edu) about any of these. For brevity, we exclude the multitude of replication files for the Appendix version, but are happy to provide these upon request. 
 
-We are in the process of vetting the do files used for data construction, which will be added shortly. For inquiries about these in the meantime, please write to [Johannes Kunz](mailto:johannes.kunz@monash.edu). 
 
 ## Replication do-files 
 
